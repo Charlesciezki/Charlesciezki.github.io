@@ -1,0 +1,58 @@
+body {
+
+	
+}
+#background {
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+
+}
+
+.stretch {
+    width:100%;
+    height:100%;
+}
+h1 {
+    color: black;
+    margin-left: 20px;
+}
+h2  {
+	color: black;
+
+}
+h3  {
+	color: black;
+
+}
+h4  {
+	color: black;
+
+}
+h5  {
+	color: black;
+
+}
+
+table {
+	background-color: grey;
+}
+#footer {
+    margin: 0px auto;
+    padding-bottom: 60px;
+    width: 850px;
+}
+#footer .copyright {
+    color: #fff;
+    float: left;
+    line-height: 32px;
+    margin-left: 200px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#footer .resize {
+    float: right;
+    width: 400px;
+}
