@@ -15,11 +15,11 @@ background-position: center center;
     height:100%;
 }
 h1 {
-    color: navy;
+    color: black;
     margin-left: 20px;
 }
 h2  {
-	color: navy;
+	color: black;
 
 }
 h3  {
@@ -27,16 +27,44 @@ h3  {
 
 }
 h4  {
-	color: navy;
+	color: black;
 
 }
 h5  {
-	color: navy;
+	color: black;
 
+}
+h3.test {
+    width: 50em; 
+    word-wrap: break-word;
 }
 
 table {
 	background-color: grey;
+}
+#blog1{
+	position: center;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	width: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: white; transparent;
+	opacity: 0.8;
+}
+#blog2{
+	position: center;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	width: 15%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: white; transparent;
+	opacity: 0.8;
 }
 #footer {
     margin: 0px auto;
