@@ -34,6 +34,30 @@ h5  {
 	color: black;
 
 }
+#blog1{
+	position: center;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	width: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: white; transparent;
+	opacity: 0.8;
+}
+#blog2{
+	position: center;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	width: 15%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: white; transparent;
+	opacity: 0.8;
+}
 
 table {
 	background-color: grey;
